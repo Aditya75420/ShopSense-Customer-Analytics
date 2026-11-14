@@ -1,0 +1,15 @@
+Project: ShopSense, Customer Shopping Behavior Analytics
+
+Business problem: A retail company wants to understand how its customers shop so it can increase sales, improve customer satisfaction, and build long-term loyalty. Today, the business lacks a clear view of who its customers are, what they buy, and how they respond to discounts, promo codes, and subscriptions.
+
+Objective: Analyze customer purchase data to uncover shopping patterns across demographics (age, gender, location), product categories, and customer segments, and turn those findings into actionable recommendations for marketing and sales teams.
+
+Key questions:
+
+Which age groups and genders generate the most revenue?
+Which product categories and items sell best?
+Do discounts and promo codes influence spending?
+How do new, returning, and loyal customers differ?
+Does subscription status affect purchase behavior?
+
+Deliverables: A cleaned dataset, SQL analysis, an interactive Power BI dashboard, a project report, and a presentation.

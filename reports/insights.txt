@@ -1,0 +1,29 @@
+Q1: Gender
+Male customers account for 157,890 of revenue (about 68%), but this is because they are 68% of customers (2,652 of 3,900). Average spend per customer is nearly identical (female 60.25 vs male 59.54), and slightly higher for females. The revenue gap comes from customer count, not spending, so the opportunity is to acquire more female customers.
+
+Q2: Age group
+Young Adults are the top revenue segment (62,143, about 27% of total), but the gap to the lowest segment, Seniors (55,763), is only about 11%. Spending is fairly evenly spread across ages, so age alone is not a strong driver of revenue.
+
+Q3: Category
+Clothing dominates with 1,737 orders (about 45% of all orders), while Outerwear has the fewest (324) and the lowest average purchase (57.17). Average spend is similar across categories (57 to 60), so growth depends on order volume more than on price. Footwear has the highest average spend (60.26) and rating (3.79), making it a candidate to promote.
+
+Q4: Top-rated products
+Gloves (3.86), Sandals (3.84), Hat (3.81), Boots (3.81), and Skirt (3.78) are the top rated, but all five sit within 0.08 points of each other. Satisfaction is consistently high across products rather than driven by a few standouts.
+
+Q5: Subscription
+Subscribers are 27% of customers (1,053) and generate about 27% of revenue (62,645). Their average spend (59.49) is slightly below non-subscribers (59.87), so subscribing is not linked to higher spend per order. The subscription program’s value would have to come from retention or purchase frequency, which we can test in Part 2.
+
+Q6: High spenders using discounts
+839 customers (about 22% of all customers) used a discount and still spent at or above the average purchase amount. Discounts do not necessarily mean smaller baskets, so this group is a good candidate for targeted promotions.
+
+Q7: Products most dependent on discounts
+Hat has the highest discount rate (50%), followed by Sneakers (49.66%), Coat (49.07%), Sweater (48.17%), and Pants (47.37%). Roughly half of purchases for these items involve a discount, so their margins should be reviewed against the overall discount rate.
+
+Q8: Customer segments
+Loyal customers make up about 80% of the base (3,116), Returning 18% (701), and New only 2% (83). The business has few first-time buyers, so growth will need stronger acquisition, and the loyalty cutoff (more than 10 purchases) may be too broad to single out the truly best customers.
+
+Q9: Top products per category (Accessories)
+In Accessories, Jewelry leads with 171 orders, while Sunglasses and Belt tie at 161. Product demand within a category is fairly balanced, so promotions can be spread across items rather than focused on one star product.
+
+
+All 1,053 subscribers in the dataset are male (about 40% of male customers), while none of the 1,248 female customers subscribe. The subscription program appears not to reach female customers at all, so either the program needs targeting for women or the data capture should be checked. This also supports the earlier finding that growing the female customer base is an opportunity.
